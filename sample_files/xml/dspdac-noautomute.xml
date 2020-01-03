@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ROM IC="ADAU1451" IC_Address="1" Address_byte_length="2">
-	<beometa>
+	<beometa>		
+		<metadata type="checksum">7F88CAAD8E8A7E4F05731605AE16EF38</metadata>
 		<metadata type="volumeLimitPiRegister">4542</metadata>
 		<metadata type="volumeLimitSPDIFRegister">4544</metadata>
 		<metadata type="mutePiRegister">4545</metadata>
